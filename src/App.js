@@ -1,13 +1,13 @@
-import React, {useEffect, useState} from "react";
+import React, { useEffect, useState } from "react";
 import "./App.css";
 import heartSrc from "./img/heart.svg";
 import ShapeContainer from "./components/ShapeContainer";
-import {playSound, startBeat, sequencePromise} from "./lib/audio";
+import { playSound, startBeat, sequencePromise } from "./lib/audio";
 
 function App() {
   const [beat, setBeat] = useState();
   useEffect(() => {
-    sequencePromise.then(setBeat)
+    sequencePromise.then(setBeat);
   }, []);
 
   return (
