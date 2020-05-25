@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/heartbeat/static/css/main.9324140b.chunk.css",
+    "main.js": "/heartbeat/static/js/main.ccd65972.chunk.js",
+    "main.js.map": "/heartbeat/static/js/main.ccd65972.chunk.js.map",
+    "runtime-main.js": "/heartbeat/static/js/runtime-main.13d3a5c4.js",
+    "runtime-main.js.map": "/heartbeat/static/js/runtime-main.13d3a5c4.js.map",
+    "static/js/2.a16f064e.chunk.js": "/heartbeat/static/js/2.a16f064e.chunk.js",
+    "static/js/2.a16f064e.chunk.js.map": "/heartbeat/static/js/2.a16f064e.chunk.js.map",
+    "index.html": "/heartbeat/index.html",
+    "precache-manifest.37f69c10efe5737e5888c4754f834997.js": "/heartbeat/precache-manifest.37f69c10efe5737e5888c4754f834997.js",
+    "service-worker.js": "/heartbeat/service-worker.js",
+    "static/css/main.9324140b.chunk.css.map": "/heartbeat/static/css/main.9324140b.chunk.css.map",
+    "static/js/2.a16f064e.chunk.js.LICENSE.txt": "/heartbeat/static/js/2.a16f064e.chunk.js.LICENSE.txt",
+    "static/media/heart.svg": "/heartbeat/static/media/heart.fffbbad8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d3a5c4.js",
+    "static/js/2.a16f064e.chunk.js",
+    "static/css/main.9324140b.chunk.css",
+    "static/js/main.ccd65972.chunk.js"
+  ]
+}
