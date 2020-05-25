@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 public/samples
-public-samples-final
+public/samples-final
 *.asd
